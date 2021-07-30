@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open https://github.com/Shaivyaa to view it in the browser.
+Open https://shaivyaa.github.io/social-comment/ to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
